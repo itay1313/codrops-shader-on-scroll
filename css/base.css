@@ -6,10 +6,10 @@
 
 :root {
 	font-size: 13px;
-	--color-text: #232222;
-	--color-bg: #fff;
-	--color-link: #232222;
-	--color-link-hover: #000;
+	--color-text: #ffffff;
+	--color-bg: #000000;
+	--color-link: #e5e5e5;
+	--color-link-hover: #fff;
 	--page-padding: 1.5rem;
 }
 
